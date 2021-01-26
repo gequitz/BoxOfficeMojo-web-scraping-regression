@@ -12,7 +12,7 @@ ______________________________________________________
 - The project findings will be compiled and presented in Google Slides
 
 ## Data Sources
-- https://www.boxofficemojo.com/chart/ww_top_lifetime_gross/?area=XWW&ref_=bo_cso_ac (BoxOfficeMojo)
+- [https://www.boxofficemojo.com/chart/ww_top_lifetime_gross/?area=XWW&ref_=bo_cso_ac] (BoxOfficeMojo top worldwide films)
 
 ## Methodology
 - Get the relevant datasets by webscraping BoxOfficeMojo
@@ -21,7 +21,6 @@ ______________________________________________________
 - Linear regression
 - Analyze features correlated with our project goals (budget, rating, etc.) - Find the highest R^2
 - Create data visualizations
-- Feature data was scraped from pages on BoxOfficeMojo.com, and parsed HTML after- To find the highest R^2, linear regression was used w
 - Presentation preparations (Google Slides)
 
 ## Findings- 
@@ -38,7 +37,7 @@ ______________________________________________________
 - [Numpy](https://numpy.org/)
 - [Scikit-learn](https://scikit-learn.org/stable/)
 - [Seaborn](https://seaborn.pydata.org/)
-- [Matplotlib](https://matplotlib.org/)- [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/)- [LXML](https://lxml.de/)
+- [Matplotlib](https://matplotlib.org/)
 - [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/)
 - [LXML](https://lxml.de/)
 
