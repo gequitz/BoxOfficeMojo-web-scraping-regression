@@ -12,7 +12,7 @@ ______________________________________________________
 - The project findings will be compiled and presented in Google Slides
 
 ## Data Sources
-- [https://www.boxofficemojo.com/chart/ww_top_lifetime_gross/?area=XWW&ref_=bo_cso_ac](BoxOfficeMojo_top_worldwide_grossing_films)
+- [https://www.boxofficemojo.com/chart/ww_top_lifetime_gross/?area=XWW&ref_=bo_cso_ac](BoxOfficeMojo top worldwide grossing films)
 
 ## Methodology
 - Get the relevant datasets by webscraping BoxOfficeMojo
